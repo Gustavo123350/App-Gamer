@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "axe/forms": "off",
+    "meta-charset-utf-8": "off"
+  }
+}

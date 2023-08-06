@@ -1,0 +1,67 @@
+body{
+    background-image: url('./fundo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+
+.titulo-fixo{
+  top:auto;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+   color: brown;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 3rem;
+   
+}
+.container-flex{
+   color: darkred;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 2rem;
+}
+.botao {
+  background-color: transparent;
+  border: none;
+  color: darkred;
+  font-size: 2rem;
+
+}
+
+.botao2{
+  background-color: transparent;
+   border: none;
+  color: darkred;
+  font-size: 2rem;
+}
+.container-flex { 
+  display: flex;
+  justify-content: center;
+   align-items: center;    
+}
+
+.user{
+   color: darkred;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-size: 2rem;
+
+}
+
+.box {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+
+
+
+
